@@ -1,0 +1,133 @@
+[{
+     "id": 1,
+     "courseOwner": "Sayers Lindman",
+     "courseName": "Linux: System Security (LPIC-2)",
+     "level": "Intermediate",
+     "price": "55",
+     "imgURL": "https://i.ibb.co/GRBpCmn/course1.jpg",
+     "authorImg": "https://i.ibb.co/xSRCgjR/p1.webp",
+     "rate": 4,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "When larger corporations and government bodies struggle with security on their computer systems you start to realize the gravity of the situation. In this course, Linux System Security LPIC-2, you will learn the foundational knowledge of securing your Linux server, giving you the opportunity to block threats before they turn into attacks. First, you will learn how to create and manage routers and route tables on your network, isolating servers from internet threats. Next, you will discover the skills behind firewalling your networks, allowing clients access with NAT, and access to servers using port forwarding. Finally, you will explore how to asses weaknesses in your OS with OpenVAS and detect intruders with the Snort IDS. When you’re finished with this course, you will have the skills and knowledge of security needed to protect your networks and Linux servers."
+   }, {
+     "id": 2,
+     "courseOwner": "Rebecka Balasin",
+     "courseName": "VLAN Operation and Configuration",
+     "level": "Intermediate",
+     "price": "70",
+     "imgURL": "https://i.ibb.co/xY2Nc9d/course2.png",
+     "authorImg": "https://i.ibb.co/5271P0M/p1.webp",
+     "rate": 3.5,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "VLANs are a great concept and are widely used throughout the networking industry. The idea of a VLAN is simply that an administrator has the ability to configure a switch such that there are multiple broadcast domains enabled, and inter-broadcast domain communication is not allowed. Effectively, a VLAN is a broadcast domain. In this course, VLAN Operation and Configuration, you will cover all things VLAN related. First, you will examine VLANs, VLAN trunks, the layer 3 switch. Next, you will set up a problematic network, and make errors during configuration. Finally, you will examine both how the network will behave and how to repair broken networks. After completing this course, you will be ready to segment a network with a single switch using VLANs."
+   }, {
+     "id": 3,
+     "courseOwner": "Jules Rawes",
+     "courseName": "Earning and Retaining Your PMP® Certification",
+     "level": "Beginner",
+     "price": "45",
+     "imgURL": "https://i.ibb.co/72wcVJF/course3.png",
+     "authorImg": "https://i.ibb.co/3WwH8m0/p15.webp",
+     "rate": 5,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "Updated to align with the 6th Edition of the PMBOK® Guide, this course, Earning and Retaining Your PMP® Certification, completes the PMP® learning path with a look at PMI's ethical standards, to which all PMP® credential holders must agree. First, you'll learn some tips and tricks to ensure you'll be ready for the big day of the exam. Next, you'll learn how to ensure you can maintain your valuable PMP® certification for years to come by understanding and meeting continuing education requirements. By the end of this course, and series, you'll be ready for the PMP® exam and to take the next big step in your career."
+   }, {
+     "id": 4,
+     "courseOwner": "Berty Meth",
+     "courseName": "SCCM Current Branch: Deploy Clients and Manage Inventory",
+     "level": "Intermediate",
+     "price": "50",
+     "imgURL": "https://i.ibb.co/x3c6h79/course4.png",
+     "authorImg": "https://i.ibb.co/5kDHqd5/p14.webp",
+     "rate": 3,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "With a primary site and site server now installed, we turn our attention in this course to the clients. While Configuration Manager is a great solution for deploying software, there's, as you might imagine, a bit of bootstrapping that's necessary to get client agents installed and clients to begin communicating. SCCM supports at least six different ways to deploy client software, as well as innumerable ways to customize client behaviors once installed.In this course, SCCM Current Branch: Deploy Clients and Manage Inventory, you'll walk through four of the six major client deployment options. First, you'll explore how to successfully automate your deployments. Next, you'll explore client hardware and software inventory, arguably the foundation of every other feature that SCCM has to offer. Finally, you'll dig deeper than you'll probably find anywhere else into the art of creating good queries and collections, including a few nifty tricks that use SQL views to visually cheat the otherwise-opaque collection creation process. By this end of this course, you'll translate what you've learned in building queries and collections into generating custom reports, giving you the tools to visualize what's really going on in and around your managed desktops."
+},{
+     "id": 5,
+     "courseOwner": "Sayers Lindman",
+     "courseName": "Creating Layouts with Flutter",
+     "level": "Advance",
+     "price": "55",
+     "imgURL": "https://i.ibb.co/VMqNwf0/p7.jpg",
+     "authorImg": "https://i.ibb.co/sCnjNdy/p13.webp",
+     "rate": 4.5,
+     "excerpt": "In this course, you'll learn everything you need to start building professional and engaging layouts with Flutter. You'll cover the basics of building user interfaces in Flutter, targeting both Android and iOS.",
+     "description": "In order to succeed, mobile products have to look good. In this course, Creating Layouts with Flutter, you'll gain the ability to leverage Flutter widgets in order to build professional layouts. First, you’ll learn how to use Containers, Rows, and Columns. Next, you’ll discover how to extend the space on your screen with ListView and GridView. Finally, you’ll explore how to use the Cupertino Library to target iOS devices and use hero animations in your apps. When you’re finished with this course, you’ll have the skills and knowledge of Flutter needed to create engaging user interfaces. Software required: The Flutter SDK, Visual Studio Code or Android Studio/IntelliJ Idea."
+   }, {
+     "id": 6,
+     "courseOwner": "Capturing & Monitoring ServiceNow SLAs",
+     "courseName": "VLAN Operation and Configuration",
+     "level": "Intermediate",
+     "price": "65",
+     "imgURL": "https://i.ibb.co/FY5pHkB/p6.jpg",
+     "authorImg": "https://i.ibb.co/xDBRM7s/p12.webp",
+     "rate": 5,
+     "excerpt": "This course will teach you concepts for capturing and monitoring SLAs in ServiceNow.",
+     "description": "VLANs are a great concept and are widely used throughout the networking industry. The idea of a VLAN is simply that an administrator has the ability to configure a switch such that there are multiple broadcast domains enabled, and inter-broadcast domain communication is not allowed. Effectively, a VLAN is a broadcast domain. In this course, VLAN Operation and Configuration, you will cover all things VLAN related. First, you will examine VLANs, VLAN trunks, the layer 3 switch. Next, you will set up a problematic network, and make errors during configuration. Finally, you will examine both how the network will behave and how to repair broken networks. After completing this course, you will be ready to segment a network with a single switch using VLANs."
+   }, {
+     "id": 7,
+     "courseOwner": "Jules Rawes",
+     "courseName": "Securing an EKS Cluster",
+     "level": "Beginner",
+     "price": "50",
+     "imgURL": "https://i.ibb.co/8578sMx/p8.jpg",
+     "authorImg": "https://i.ibb.co/TPmv3BL/p11.webp",
+     "rate": 5,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "Updated to align with the 6th Edition of the PMBOK® Guide, this course, Earning and Retaining Your PMP® Certification, completes the PMP® learning path with a look at PMI's ethical standards, to which all PMP® credential holders must agree. First, you'll learn some tips and tricks to ensure you'll be ready for the big day of the exam. Next, you'll learn how to ensure you can maintain your valuable PMP® certification for years to come by understanding and meeting continuing education requirements. By the end of this course, and series, you'll be ready for the PMP® exam and to take the next big step in your career."
+   }, {
+     "id": 8,
+     "courseOwner": "Berty Meth",
+     "courseName": " Impact with Low Orbit Ion Cannon (LOIC)",
+     "level": "Beginner",
+     "price": "30",
+     "imgURL": "https://i.ibb.co/58Dc9tG/p5.png",
+     "authorImg": "https://i.ibb.co/K974m71/p10.webp",
+     "rate": 3,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "With a primary site and site server now installed, we turn our attention in this course to the clients. While Configuration Manager is a great solution for deploying software, there's, as you might imagine, a bit of bootstrapping that's necessary to get client agents installed and clients to begin communicating. SCCM supports at least six different ways to deploy client software, as well as innumerable ways to customize client behaviors once installed.In this course, SCCM Current Branch: Deploy Clients and Manage Inventory, you'll walk through four of the six major client deployment options. First, you'll explore how to successfully automate your deployments. Next, you'll explore client hardware and software inventory, arguably the foundation of every other feature that SCCM has to offer. Finally, you'll dig deeper than you'll probably find anywhere else into the art of creating good queries and collections, including a few nifty tricks that use SQL views to visually cheat the otherwise-opaque collection creation process. By this end of this course, you'll translate what you've learned in building queries and collections into generating custom reports, giving you the tools to visualize what's really going on in and around your managed desktops."
+},{
+     "id": 9,
+     "courseOwner": "Sayers Lindman",
+     "courseName": "Linux: System Security (LPIC-2)",
+     "level": "Advance",
+     "price": "80",
+     "imgURL": "https://i.ibb.co/GRBpCmn/course1.jpg",
+     "authorImg": "https://i.ibb.co/H4X68H9/p9.webp",
+     "rate": 4,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "When larger corporations and government bodies struggle with security on their computer systems you start to realize the gravity of the situation. In this course, Linux System Security LPIC-2, you will learn the foundational knowledge of securing your Linux server, giving you the opportunity to block threats before they turn into attacks. First, you will learn how to create and manage routers and route tables on your network, isolating servers from internet threats. Next, you will discover the skills behind firewalling your networks, allowing clients access with NAT, and access to servers using port forwarding. Finally, you will explore how to asses weaknesses in your OS with OpenVAS and detect intruders with the Snort IDS. When you’re finished with this course, you will have the skills and knowledge of security needed to protect your networks and Linux servers."
+   }, {
+     "id": 10,
+     "courseOwner": "Rebecka Balasin",
+     "courseName": "VLAN Operation and Configuration",
+     "level": "Intermediate",
+     "price": "70",
+     "imgURL": "https://i.ibb.co/xY2Nc9d/course2.png",
+     "authorImg": "https://i.ibb.co/NS2Fsx4/p8.webp",
+     "rate": 5,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "VLANs are a great concept and are widely used throughout the networking industry. The idea of a VLAN is simply that an administrator has the ability to configure a switch such that there are multiple broadcast domains enabled, and inter-broadcast domain communication is not allowed. Effectively, a VLAN is a broadcast domain. In this course, VLAN Operation and Configuration, you will cover all things VLAN related. First, you will examine VLANs, VLAN trunks, the layer 3 switch. Next, you will set up a problematic network, and make errors during configuration. Finally, you will examine both how the network will behave and how to repair broken networks. After completing this course, you will be ready to segment a network with a single switch using VLANs."
+   }, {
+     "id": 11,
+     "courseOwner": "Jules Rawes",
+     "courseName": "Earning and Retaining Your PMP® Certification",
+     "level": "Beginner",
+     "price": "45",
+     "imgURL": "https://i.ibb.co/72wcVJF/course3.png",
+     "authorImg": "https://i.ibb.co/kGnCqD4/p7.webp",
+     "rate": 5,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "Updated to align with the 6th Edition of the PMBOK® Guide, this course, Earning and Retaining Your PMP® Certification, completes the PMP® learning path with a look at PMI's ethical standards, to which all PMP® credential holders must agree. First, you'll learn some tips and tricks to ensure you'll be ready for the big day of the exam. Next, you'll learn how to ensure you can maintain your valuable PMP® certification for years to come by understanding and meeting continuing education requirements. By the end of this course, and series, you'll be ready for the PMP® exam and to take the next big step in your career."
+   }, {
+     "id": 12,
+     "courseOwner": "Berty Meth",
+     "courseName": "SCCM Current Branch: Deploy Clients and Manage Inventory",
+     "level": "Intermediate",
+     "price": "55",
+     "imgURL": "https://i.ibb.co/x3c6h79/course4.png",
+     "authorImg": "https://i.ibb.co/b2b4VZZ/p-6.webp",
+     "rate": 3,
+     "excerpt": "Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",
+     "description": "With a primary site and site server now installed, we turn our attention in this course to the clients. While Configuration Manager is a great solution for deploying software, there's, as you might imagine, a bit of bootstrapping that's necessary to get client agents installed and clients to begin communicating. SCCM supports at least six different ways to deploy client software, as well as innumerable ways to customize client behaviors once installed.In this course, SCCM Current Branch: Deploy Clients and Manage Inventory, you'll walk through four of the six major client deployment options. First, you'll explore how to successfully automate your deployments. Next, you'll explore client hardware and software inventory, arguably the foundation of every other feature that SCCM has to offer. Finally, you'll dig deeper than you'll probably find anywhere else into the art of creating good queries and collections, including a few nifty tricks that use SQL views to visually cheat the otherwise-opaque collection creation process. By this end of this course, you'll translate what you've learned in building queries and collections into generating custom reports, giving you the tools to visualize what's really going on in and around your managed desktops."
+}]

@@ -1,0 +1,36 @@
+.courses {
+     margin: 50px auto;
+}
+.courses-header {
+     height: 280px;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+     background-image: url(https://www.pluralsight.com/content/dam/pluralsight2/browse/backgrounds/bg-hero.png);
+     background-repeat: no-repeat;
+}
+
+.courses-header h2 {
+     font-weight: 800;
+     font-size: 35px;
+}
+.browse-course-btn {
+     text-align: center;
+     margin-top: 35px;
+ }
+ .browse-course-btn a {
+     display: inline-block;
+     text-decoration: none;
+     color: white;
+     background-color: transparent;
+     padding: 10px 20px;
+     border-radius: 3px;
+     border: 1px solid white;
+     transition: .3s all;
+ }
+ .browse-course-btn a:hover {
+      background-color: white;
+      color: #222;
+ }

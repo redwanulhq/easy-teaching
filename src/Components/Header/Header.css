@@ -1,0 +1,30 @@
+header {
+    background-color: #181818;
+    position: sticky;
+    z-index: 10000;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.37);
+}
+nav {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 15px 0;
+ }
+ .menu a {
+     color: white;
+     text-decoration: none;
+     margin-right: 20px;
+ }
+ .sign-in {
+     border: 1px solid white;
+     padding: 7px 20px;
+     transition: .3s;
+ }
+ .sign-in:hover {
+     border: 1px solid #39ad31;
+ }
+ .menu a:hover {
+    color: #39ad31 !important;
+}

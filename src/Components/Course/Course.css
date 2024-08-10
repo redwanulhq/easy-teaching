@@ -1,0 +1,18 @@
+.card{
+     background-color: #222!important;
+}
+.fa-star {
+     color: #39ad31;
+}
+.course-rate {
+     font-size: 25px;
+     width: 60px;
+}
+.course-name {
+     color: white;
+     text-decoration: none;
+     transition: .3s;
+}
+.course-name:hover {
+     color: #7add73;
+}

@@ -1,0 +1,29 @@
+.about-heading {
+     text-align: center;
+     padding: 150px 0;
+ }
+ .about-heading h2 {
+     font-size: 52px;
+     font-weight: 700;
+ }
+ .about-heading h1 {
+     font-weight: 700;
+     font-size: 27px;
+     color: #ddd;
+ }
+
+ .content-container {
+     display: flex;
+     margin: 0px 0 70px;
+ }
+ .content-container p {
+     line-height: 30px;
+     display: flex;
+     align-items: center;
+ }
+ .img-container {
+     max-width: 370px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
